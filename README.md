@@ -1,6 +1,6 @@
   - 👋 Hi, I’m Carlos Yahir Vargas Zamora
 - 👀 I’m interested in Tecnology and Web Development
-- 🌱 I’m currently learning Informatica Empresarial and some courses about web development.
+- 🌱 I’m currently learning Business Information Technology and some courses about web development.
 - 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me yahirvz.business@gmail.com
 
